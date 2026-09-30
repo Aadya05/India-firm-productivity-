@@ -1,0 +1,7 @@
+sector,survey_year,firms_surveyed,firms_with_productivity,avg_sales_per_employee,median_sales_per_employee,wtd_median_sales_per_employee,avg_va_per_employee,median_va_per_employee,avg_labor_cost_sales,median_labor_cost_sales,avg_employees,median_employees
+Manufacturing,2014,7163,6837,46572.493,20749.367,18526.221,17448.817,8373.933,0.129,0.111,91.0,32.0
+Manufacturing,2022,5417,4699,44887.14,20386.546,12422.154,20946.779,9298.487,0.153,0.103,120.518,60.0
+Manufacturing,2025,5708,5696,39915.688,30055.004,25916.177,18410.309,14034.607,0.11,0.09,108.087,57.0
+Services,2014,2118,1944,34087.901,10806.962,7608.101,,,0.287,0.208,91.988,25.0
+Services,2022,3959,3938,35741.996,12619.375,10342.356,,,0.218,0.17,49.244,18.0
+Services,2025,4771,4768,37070.395,23494.915,22959.005,,,0.134,0.101,56.603,18.0

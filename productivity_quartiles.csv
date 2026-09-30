@@ -1,0 +1,9 @@
+sector,productivity_quartile,firms,median_sales_per_employee,median_employees,median_labor_cost_sales
+Manufacturing,Q1,4308,7134.463,25.0,0.216
+Manufacturing,Q2,4308,17291.139,35.0,0.124
+Manufacturing,Q3,4308,33692.359,60.5,0.078
+Manufacturing,Q4,4308,82931.766,73.0,0.038
+Services,Q1,2663,4940.326,15.0,0.33
+Services,Q2,2662,12094.216,16.0,0.177
+Services,Q3,2662,24879.53,20.0,0.1
+Services,Q4,2663,69164.558,35.0,0.046

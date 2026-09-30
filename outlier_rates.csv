@@ -1,0 +1,7 @@
+sector,survey_year,firms,flagged,outlier_rate
+Manufacturing,2014,7163,154,0.0215
+Manufacturing,2022,5417,670,0.1237
+Manufacturing,2025,5708,18,0.0032
+Services,2014,2118,44,0.0208
+Services,2022,3959,50,0.0126
+Services,2025,4771,4,0.0008

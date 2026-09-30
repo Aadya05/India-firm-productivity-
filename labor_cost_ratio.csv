@@ -1,0 +1,7 @@
+sector,survey_year,mean,median,weighted_mean
+Manufacturing,2014,0.1293,0.1111,0.1341
+Manufacturing,2022,0.1529,0.1031,0.1965
+Manufacturing,2025,0.1102,0.0901,0.1221
+Services,2014,0.2869,0.208,0.285
+Services,2022,0.2175,0.1705,0.2477
+Services,2025,0.1338,0.1009,0.1309

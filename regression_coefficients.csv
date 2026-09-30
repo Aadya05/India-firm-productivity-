@@ -1,0 +1,25 @@
+term,model,coef,std_err,p_value
+Intercept,m1_all_ols,9.2876,0.0227,0.0
+C(sector)[T.Services],m1_all_ols,-0.4713,0.0328,0.0
+"C(year, Treatment('2014'))[T.2022]",m1_all_ols,-0.0373,0.0217,0.0858
+"C(year, Treatment('2014'))[T.2025]",m1_all_ols,0.2626,0.0176,0.0
+"C(sector)[T.Services]:C(year, Treatment('2014'))[T.2022]",m1_all_ols,0.2204,0.0412,0.0
+"C(sector)[T.Services]:C(year, Treatment('2014'))[T.2025]",m1_all_ols,0.4264,0.0365,0.0
+log_employees,m1_all_ols,0.1881,0.0049,0.0
+Intercept,m1_all_wls,8.7004,0.0991,0.0
+C(sector)[T.Services],m1_all_wls,-0.6392,0.0564,0.0
+"C(year, Treatment('2014'))[T.2022]",m1_all_wls,-0.0435,0.0487,0.3717
+"C(year, Treatment('2014'))[T.2025]",m1_all_wls,0.4732,0.0408,0.0
+"C(sector)[T.Services]:C(year, Treatment('2014'))[T.2022]",m1_all_wls,0.5786,0.0735,0.0
+"C(sector)[T.Services]:C(year, Treatment('2014'))[T.2025]",m1_all_wls,0.6583,0.0685,0.0
+log_employees,m1_all_wls,0.3396,0.028,0.0
+Intercept,m2_mfg_ols,7.1664,0.0482,0.0
+"C(year, Treatment('2014'))[T.2022]",m2_mfg_ols,0.0849,0.0246,0.0006
+"C(year, Treatment('2014'))[T.2025]",m2_mfg_ols,0.3648,0.0226,0.0
+log_capital_per_employee,m2_mfg_ols,0.2529,0.0051,0.0
+log_employees,m2_mfg_ols,0.2069,0.006,0.0
+Intercept,m2_mfg_wls,7.7093,0.271,0.0
+"C(year, Treatment('2014'))[T.2022]",m2_mfg_wls,-0.0724,0.056,0.1963
+"C(year, Treatment('2014'))[T.2025]",m2_mfg_wls,0.4311,0.0444,0.0
+log_capital_per_employee,m2_mfg_wls,0.1539,0.0271,0.0
+log_employees,m2_mfg_wls,0.2968,0.0375,0.0
