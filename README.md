@@ -19,10 +19,6 @@ A Python/pandas project analysing firm-level productivity in India using World B
 6. **Labor cost share falls as productivity rises.** Median labor cost / sales in Manufacturing drops from 21.6% in the bottom productivity quartile to 3.8% in the top quartile.
 7. **Services labor cost share fell from 0.208 to 0.101 (median) between 2014 and 2025.** The drop is visible in mean, median and weighted measures, so it is not driven by a few outliers. Still, treat it with care: the 2025 round has no missing labor cost values at all, so survey design or data processing may differ from earlier rounds.
 
-![Sales per employee](figures/01_sales_per_employee_boxplot.png)
-![Mean vs median](figures/02_mean_vs_median.png)
-![Labor cost ratio](figures/03_labor_cost_ratio.png)
-
 ## Repository structure
 | Path | Purpose |
 |---|---|
